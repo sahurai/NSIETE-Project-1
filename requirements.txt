@@ -1,5 +1,7 @@
 loguru
 mkdocs
+matplotlib
+seaborn
 pip
 python-dotenv
 ruff
